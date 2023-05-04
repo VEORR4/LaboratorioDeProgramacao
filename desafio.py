@@ -12,3 +12,6 @@ for num in range(numero1, numero2+1):
 
 print(f"Entre {numero1} e {numero2}, há {count} números pares.")
 
+
+#joao vitor tranzil amaral de souza galvao
+
